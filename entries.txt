@@ -1,0 +1,7 @@
+title: this is my first blog post
+date: 27-06-2015
+This is my first blog post so nothing much to say
+---
+title: i really love node
+date: 14-08-1947
+I really love node and it has given me infinite capabilities.
